@@ -61,6 +61,8 @@ Container methods
    container_methods/avg_pool3d.rst
    container_methods/static_avg_pool2d.rst
    container_methods/avg_pool2d.rst
+   container_methods/static_dct.rst
+   container_methods/dct.rst
    container_methods/static_diagflat.rst
    container_methods/diagflat.rst
    container_methods/static_kron.rst
@@ -87,6 +89,10 @@ Container methods
    container_methods/flatten.rst
    container_methods/static_pad.rst
    container_methods/pad.rst
+   container_methods/static_vsplit.rst
+   container_methods/vsplit.rst
+   container_methods/static_dsplit.rst
+   container_methods/dsplit.rst
    container_methods/static_dirichlet.rst
    container_methods/dirichlet.rst
    container_methods/static_msort.rst
